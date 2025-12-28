@@ -1,4 +1,5 @@
-📈 Stock Price Analysis & Prediction System
+Stock Price Analysis & Prediction System
+
 📌 Project Overview
 
 This project focuses on analyzing, modeling, and predicting stock prices using Python by leveraging historical stock price data and engineered time-series features.
